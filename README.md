@@ -2,7 +2,7 @@
 La comunicación entre las aplicaciones y el DBMS se hace a través del lenguaje estandar Structured Query Language (SQL).
 
 
-Link directo al video: [_Click Aqui_](https://www.linkedin.com/in/ivan-s-nu%C3%B1ez/recent-activity/)
+Link directo al video: [_Click Aqui_](https://www.linkedin.com/posts/ivan-s-nu%C3%B1ez_java-mysql-jdbc-activity-6907844171613548544-UweJ/)
 ## ¿En que consiste la App?  Permite a los usuarios las siguientes tareas
 1) Definición de datos.  
 2) Actualización de datos.  
